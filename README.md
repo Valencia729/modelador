@@ -6,16 +6,16 @@ Script webgl modelador de terreno - sandbox
 //Agregue agua a la escena, seleccionando el tipo de pincel "agua" del cuadro de comandos y mantenga presionada la tecla C sobre la ubicación.
 //Gire el modelo con clic izquierdo sostenido y con scroll de mouse haga zoom.
 
-[modelador de terreno]
+![modelador de terreno]
 (https://github.com/Valencia729/modelador/blob/bcb71d204a1ca71fe9839f0ee909112fb15030b5/img/cap1.png)
 
-[modelador de terreno]
+![modelador de terreno]
 (https://github.com/Valencia729/modelador/blob/bcb71d204a1ca71fe9839f0ee909112fb15030b5/img/cap3.png)
 
 //Cuadro de controles
 Parametros de terreno - Resetar: Restaura el modelo a una suoerficie random con elevación minima definida por código
 
-[modelador de terreno]
+![modelador de terreno]
 (https://github.com/Valencia729/modelador/blob/bcb71d204a1ca71fe9839f0ee909112fb15030b5/img/cap3.png)
 
 //Editor de terreno
