@@ -23,6 +23,11 @@ Fuerza: Aumente o disminuye la sensibilidad al añadir elevación
 //Estilo de terreno
 Estilo: Paleta de colores posibles para el modelo creado
 
+//Referencias
+- [Fast Hydraulic Erosion Simulation and Visualization on GPU](http://www-ljk.imag.fr/Publications/Basilic/com.lmc.publi.PUBLI_Inproceedings@117681e94b6_fff75c/FastErosion_PG07.pdf)
+- [Interactive Terrain Modeling Using Hydraulic Erosion](https://cgg.mff.cuni.cz/~jaroslav/papers/2008-sca-erosim/2008-sca-erosiom-fin.pdf)
+- [Volumetric Lights for Unity 5](https://github.com/SlightlyMad/VolumetricLights)
+- ShaderX7 Advanced Rendering Techniques : starting page 207
 
 
 
