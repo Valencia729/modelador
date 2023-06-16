@@ -8,12 +8,12 @@ Script webgl modelador de terreno - sandbox
 
 ![univalle](img/cap1.png)
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Valencia729/modelador/main/img/cap3.png)
+![Aquí la descripción de la imagen por si no carga](img/cap3.png)
 
 //Cuadro de controles
 Parametros de terreno - Resetar: Restaura el modelo a una suoerficie random con elevación minima definida por código
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Valencia729/modelador/main/img/cap2.png)
+![Aquí la descripción de la imagen por si no carga](img/cap2.png)
 
 //Editor de terreno
 Pincel: Seleccione según el tipo, pincel de terreno para añadir elevación al modelo, picel de agua para añadir el componente a la superficie.
